@@ -2,6 +2,8 @@
 
 A Streamlit-based personal analytics dashboard that tracks daily lifestyle habits such as sleep, study, screen time, exercise, and mood. It provides AI-like insights, personalized advice, and visual analytics to help users improve productivity and lifestyle balance.
 
+---
+
 ## Live Features:
 
 ## Authentication System:
@@ -11,6 +13,8 @@ A Streamlit-based personal analytics dashboard that tracks daily lifestyle habit
 3. Session-based user tracking
 4. Daily Lifestyle Tracker
 
+---
+
 ## Users can log:
 
 1. Sleep hours
@@ -19,6 +23,8 @@ A Streamlit-based personal analytics dashboard that tracks daily lifestyle habit
 4. Exercise time
 5. Mood tracking
 6. Smart Report System
+
+---
 
 ## Each entry is displayed as a detailed report card:
 
@@ -32,6 +38,8 @@ Status indicator:
 
 🔴 Needs Improvement
 
+---
+
 ## Analytics Dashboard
 
 Visual insights include:
@@ -42,6 +50,8 @@ Visual insights include:
 4. Productivity trend tracking
 5. AI-Like Insights Engine
 
+---
+
 ## Automatically generates suggestions like:
 
 1. Improve sleep consistency
@@ -50,11 +60,15 @@ Visual insights include:
 4. Add physical exercise
 5. Stress management tips
 
+---
+
 ## Data Management:
 
 1. Add daily entries
 2. Delete specific entries
 3. Auto-reset entry IDs when database is empty
+
+---
 
 ## Tech Stack:
 
@@ -64,6 +78,8 @@ Visual insights include:
 4. Data Handling: Pandas
 5. Visualization: Plotly Express
 6. Security: bcrypt password hashing
+
+---
 
 ## Project Structure:
 
