@@ -4,8 +4,6 @@ A Streamlit-based personal analytics dashboard that tracks daily lifestyle habit
 
 ---
 
-## Live Features:
-
 ## Authentication System:
 
 1. User Signup & Login
@@ -27,8 +25,6 @@ A Streamlit-based personal analytics dashboard that tracks daily lifestyle habit
 ---
 
 ## Each entry is displayed as a detailed report card:
-
-## Entry-wise lifestyle breakdown Overall entry score (0–100)
 
 Status indicator:
 
