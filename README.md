@@ -79,6 +79,6 @@ Visual insights include:
 
 ## Project Structure:
 
-1. app.py              # Main Streamlit application
-2. lifestyle.db        # SQLite database (auto-generated)
-3. requirements.txt    # Dependencies
+1. app.py              : Main Streamlit application
+2. lifestyle.db        : SQLite database (auto-generated)
+3. requirements.txt    : Dependencies
