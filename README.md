@@ -1,4 +1,4 @@
-Real-Time Life Monitoring & Behavioral Analytics System
+## Real-Time Life Monitoring & Behavioral Analytics System
 
 A Streamlit-based personal analytics dashboard that tracks daily lifestyle habits such as sleep, study, screen time, exercise, and mood. It provides AI-like insights, personalized advice, and visual analytics to help users improve productivity and lifestyle balance.
 
